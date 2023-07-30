@@ -1,6 +1,6 @@
 注意：我不会维护lib02su，因为我的工作中心在libsuu，此版本即为终版。
 可以去我的repo看下
-# libsu
+# lib02su
 
 [![](https://jitpack.io/v/4accccc/lib02su.svg)](https://jitpack.io/#4accccc/lib02su)
 
